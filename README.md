@@ -1,15 +1,26 @@
-<h1 align="center">¡Hola! Soy Noel Huereca 👋</h1>
-<h3 align="center">Desarrollador Full-Stack · Laravel & Vue.js</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/noel-huereca">
-    <img src="https://img.shields.io/badge/LinkedIn-noel--huereca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Zapopan,_Jalisco-México-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/Disponible-Presencial_·_Híbrido_·_Remoto-6A1B9A?style=for-the-badge" alt="Modalidad" />
-</p>
-
----
+<table border="0">
+  <tr>
+    <!-- Columna Izquierda: Tu contenido -->
+    <td valign="top" width="70%">
+      <h1 align="center">¡Hola! Soy Noel Huereca</h1>
+      <h3 align="center">Desarrollador Full-Stack · Laravel & Vue.js </h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/noel-huereca">
+          <img src="https://img.shields.io/badge/LinkedIn-noel--huereca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <img src="https://img.shields.io/badge/Zapopan,_Jalisco-México-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+        <img src="https://img.shields.io/badge/Disponible-Presencial_·_Híbrido_·_Remoto-6A1B9A?style=for-the-badge" alt="Modalidad" />
+      </p>
+    </td>
+    <td valign="top" align="center" width="30%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="koi/koi.gif">
+        <source media="(prefers-color-scheme: light)" srcset="koi/koi.gif">
+        <img alt="My Git Koi" src="koi/koi.gif" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## 🧑‍💻 Sobre mí
 
